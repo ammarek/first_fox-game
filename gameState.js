@@ -7,7 +7,7 @@ import {
   getNextHungerTime,
   getNextDieTime,
   getNextPoopTime,
-} from "./constants";
+} from "constants.js";
 
 const gameState = {
   current: "INIT",
