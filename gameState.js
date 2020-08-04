@@ -1,4 +1,4 @@
-import { modFox, modScene, togglePoopBag, writeModal } from "./ui";
+import { modFox, modScene, togglePoopBag, writeModal } from "./ui.js";
 import {
   RAIN_CHANCE,
   SCENES,
